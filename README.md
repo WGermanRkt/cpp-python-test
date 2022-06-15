@@ -1,4 +1,4 @@
-# Cpp Python runner
+# Cpp Python Test
 This a cpp test tool that can execute python calls.
 
 ## Install python development libraries
